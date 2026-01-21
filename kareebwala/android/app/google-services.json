@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892210957819",
+    "project_id": "daywise-5487l",
+    "storage_bucket": "daywise-5487l.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892210957819:android:04d737f21203bcb179cf5e",
+        "android_client_info": {
+          "package_name": "com.example.kareebwala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArL7aO5NX0QZ0cWjxrqFvEn7BkRzFbZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
